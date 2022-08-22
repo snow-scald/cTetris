@@ -1,0 +1,1 @@
+C:\myworkpath\vs\mygame\mygametetris\Debug\tetris.exe
